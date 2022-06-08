@@ -1,0 +1,14 @@
+C:\Users\Oğuzhan\Desktop\KocogluOptik\KocogluOptik\bin\Debug\KocogluOptik.exe.config
+C:\Users\Oğuzhan\Desktop\KocogluOptik\KocogluOptik\bin\Debug\KocogluOptik.exe
+C:\Users\Oğuzhan\Desktop\KocogluOptik\KocogluOptik\bin\Debug\KocogluOptik.pdb
+C:\Users\Oğuzhan\Desktop\KocogluOptik\KocogluOptik\obj\Debug\KocogluOptik.csprojResolveAssemblyReference.cache
+C:\Users\Oğuzhan\Desktop\KocogluOptik\KocogluOptik\obj\Debug\KocogluOptik.Form1.resources
+C:\Users\Oğuzhan\Desktop\KocogluOptik\KocogluOptik\obj\Debug\KocogluOptik.Properties.Resources.resources
+C:\Users\Oğuzhan\Desktop\KocogluOptik\KocogluOptik\obj\Debug\KocogluOptik.csproj.GenerateResource.Cache
+C:\Users\Oğuzhan\Desktop\KocogluOptik\KocogluOptik\obj\Debug\KocogluOptik.csproj.CoreCompileInputs.cache
+C:\Users\Oğuzhan\Desktop\KocogluOptik\KocogluOptik\obj\Debug\KocogluOptik.exe
+C:\Users\Oğuzhan\Desktop\KocogluOptik\KocogluOptik\obj\Debug\KocogluOptik.pdb
+C:\Users\Oğuzhan\Desktop\KocogluOptik\KocogluOptik\obj\Debug\KocogluOptik.Form2.resources
+C:\Users\Oğuzhan\Desktop\KocogluOptik\KocogluOptik\obj\Debug\KocogluOptik.Form3.resources
+C:\Users\Oğuzhan\Desktop\KocogluOptik\KocogluOptik\obj\Debug\KocogluOptik.Form4.resources
+C:\Users\Oğuzhan\Desktop\KocogluOptik\KocogluOptik\obj\Debug\KocogluOptik.Form5.resources
